@@ -19,7 +19,8 @@
     <tr>
    <p align=center>
 
-<img width="200" alt="Untitled792_20261117180038" src="https://github.com/user-attachments/assets/6e0440cb-9fb0-4c38-b767-c5a404cded27" />
+<img width="2048" alt="Untitled795_20261117181919" src="https://github.com/user-attachments/assets/78a1a1bf-8ccf-4653-b851-ea4186f7ff08" />
+
 
 
 </tr>
@@ -28,7 +29,7 @@
     <tr>
       <td>
         <p align=center>
-  <img width="400" alt="Untitled792_20261117180038" src="https://github.com/user-attachments/assets/6e0440cb-9fb0-4c38-b767-c5a404cded27" /> <td> 
+  <img width="500" alt="Untitled792_20261117180038" src="https://github.com/user-attachments/assets/6e0440cb-9fb0-4c38-b767-c5a404cded27" /> <td> 
     meowmeow meow mekwowwok meos meow meow meme m m memo meo moeem meow mew 
 
    </td> 

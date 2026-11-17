@@ -7,7 +7,7 @@
    <tr>
      <td>
  <p align=center>  
- hi
+ hi meow meow meowmeow meow meow meow meow meow meow meow meow meow meow meowmeow meo
   </td>
    </tr>
  </table>
@@ -21,4 +21,20 @@
 
 <img width="200" alt="Untitled792_20261117180038" src="https://github.com/user-attachments/assets/6e0440cb-9fb0-4c38-b767-c5a404cded27" />
 
-meow
+
+</tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p align=center>
+  <img width="400" alt="Untitled792_20261117180038" src="https://github.com/user-attachments/assets/6e0440cb-9fb0-4c38-b767-c5a404cded27" /> <td> 
+    meowmeow meow mekwowwok meos meow meow meme m m memo meo moeem meow mew 
+
+   </td> 
+    </tr> 
+    <table>
+    <tr>   
+    <br>
+
+
